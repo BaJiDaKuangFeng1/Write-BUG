@@ -13,4 +13,8 @@ public class SpringBootTest02ApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void contextLoads1() {
+	}
+
 }
